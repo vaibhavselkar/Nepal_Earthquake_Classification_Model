@@ -1,0 +1,1 @@
+# Nepal_Earthquake_Classification_Model
